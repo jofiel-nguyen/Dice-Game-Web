@@ -1,7 +1,7 @@
 document.addEventListener("DOMContentLoaded", function () {
   const img1 = document.querySelector(".img1");
   const img2 = document.querySelector(".img2");
-  const resultText = document.querySelector("h1"); // Assuming your h1 element is directly inside the HTML body
+  const resultText = document.querySelector("h1"); // Assuming h1 element is directly inside the HTML body
   
   const diceImages = [
     "./images/dice1.png",
