@@ -1,4 +1,4 @@
-### Dice Game
+# Dice Game
 A simple JavaScript-based Dice game that allows players to roll dice and compete to achieve the highest score.
 
 ## Table of Contents
