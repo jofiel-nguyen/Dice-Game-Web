@@ -48,5 +48,5 @@ Push your branch to your fork on GitHub.
 Create a pull request to the main repository.
 ```
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
+This project is licensed under the [MIT License](./LICENSE) - see the [LICENSE](./LICENSE) file for details.
